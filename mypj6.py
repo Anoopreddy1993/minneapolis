@@ -1,0 +1,6 @@
+print("jabardasth")
+print("hadoop")
+print("sudheer")
+print("anoop")
+print("sudheer")
+print("anoop")
